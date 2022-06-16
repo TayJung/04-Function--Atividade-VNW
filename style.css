@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    line-height: 7vh;
+    color: aquamarine;
+    background-color: black;
+}
+
+h1{
+    color: rgb(13, 175, 86);
+}
+
+h2{
+    color: brown;
+}
